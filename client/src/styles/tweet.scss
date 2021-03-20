@@ -4,4 +4,13 @@
         background-color: #ccf;
         padding: 8px;
     }
+    &Contents{
+        p{
+            margin: 0;
+            line-height: 2;
+        }
+        .card-body{
+            margin: 0px;
+        }
+    }
 }
